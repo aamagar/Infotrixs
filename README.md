@@ -1,2 +1,3 @@
 # Infotrixs
-This is user-friendly Contact Management System developed using Python programming language.
+This is  Contact Management System built using Python, providing a user-friendly interface and robust functionality for organizing and managing your contacts efficiently.
+Features
